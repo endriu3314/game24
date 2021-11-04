@@ -19,7 +19,7 @@ int main() {
 
         scanf("%d", &scan);
 
-        // we only accept inpus between 1 and 10
+        // we only accept inputs between 1 and 10
         while (scan != -1) {
             if (scan > 0 && scan < 11) {
                 break;
